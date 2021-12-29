@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640777710 source:/home/sahayaminuanish/Documents/programs/Hello/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
